@@ -1,13 +1,13 @@
 # Art Robot
 
-Check out the video at XXX
+Check out the video at https://youtu.be/9OC1UjbhsRY
 
-Read the detailed build instructions at XXX
+Read the detailed build instructions at https://www.instructables.com/Art-Robot-1/
 
 
-3D files available in this repo
+3D files available in this repo.
 
-GERBER files for making the PCB available in this repo
+GERBER files for making the PCB available in this repo.
 
 
 Robot control software / Desktop application https://github.com/esverd/plottrbot-csharp 
